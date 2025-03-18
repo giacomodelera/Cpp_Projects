@@ -1,0 +1,8 @@
+P0 - Proposer 0 propose to 0
+P0 - Proposer 1 propose to 0
+P0 - Acceptor 0 has accepted 1 (before was 2)
+P0 - Acceptor 1 has accepted 2 (before was 2)
+P0 - Proposer 0 propose to 1
+P0 - Proposer 1 is fine with 0
+P0 - Acceptor 0 has accepted 1 (before was 1)
+P0 - Acceptor 1 has accepted 0 (before was 2)

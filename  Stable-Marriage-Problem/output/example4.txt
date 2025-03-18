@@ -1,0 +1,40 @@
+P0 - Proposer 0 propose to 0
+P0 - Proposer 1 propose to 1
+P0 - Proposer 2 propose to 0
+P0 - Proposer 3 propose to 0
+P0 - Acceptor 0 has accepted 0 (before was 4)
+P0 - Acceptor 1 has accepted 1 (before was 4)
+P0 - Acceptor 2 has accepted 4 (before was 4)
+P0 - Acceptor 3 has accepted 4 (before was 4)
+P0 - Proposer 0 is fine with 0
+P0 - Proposer 1 is fine with 1
+P0 - Proposer 2 propose to 2
+P0 - Proposer 3 propose to 1
+P0 - Acceptor 0 has accepted 0 (before was 0)
+P0 - Acceptor 1 has accepted 1 (before was 1)
+P0 - Acceptor 2 has accepted 2 (before was 4)
+P0 - Acceptor 3 has accepted 4 (before was 4)
+P0 - Proposer 0 is fine with 0
+P0 - Proposer 1 is fine with 1
+P0 - Proposer 2 is fine with 2
+P0 - Proposer 3 propose to 2
+P0 - Acceptor 0 has accepted 0 (before was 0)
+P0 - Acceptor 1 has accepted 1 (before was 1)
+P0 - Acceptor 2 has accepted 3 (before was 2)
+P0 - Acceptor 3 has accepted 4 (before was 4)
+P0 - Proposer 0 is fine with 0
+P0 - Proposer 1 is fine with 1
+P0 - Proposer 2 propose to 1
+P0 - Proposer 3 is fine with 2
+P0 - Acceptor 0 has accepted 0 (before was 0)
+P0 - Acceptor 1 has accepted 1 (before was 1)
+P0 - Acceptor 2 has accepted 3 (before was 3)
+P0 - Acceptor 3 has accepted 4 (before was 4)
+P0 - Proposer 0 is fine with 0
+P0 - Proposer 1 is fine with 1
+P0 - Proposer 2 propose to 3
+P0 - Proposer 3 is fine with 2
+P0 - Acceptor 0 has accepted 0 (before was 0)
+P0 - Acceptor 1 has accepted 1 (before was 1)
+P0 - Acceptor 2 has accepted 3 (before was 3)
+P0 - Acceptor 3 has accepted 2 (before was 4)
